@@ -1,0 +1,13 @@
+#wrapper {
+	width: 400px;
+	text-align: center;
+	border: 1px solid #242426;
+}
+
+.screen {
+	height: 150px;
+}
+
+td {
+	height: 15px;
+}
